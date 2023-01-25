@@ -1,22 +1,17 @@
 ### Hi I'm Wonjae Jeong 👋
-MlOps Developer / DevOps Enginner 지망생
+MlOps Developer / DevOps / Data Enginner 지망생
+
+Projects
+- 카메라 축구공 탐지 터틀봇, 젯슨나노 GPU inference 환경 구축 및 yolov3 벤치마크 테스트(2022.09 ~ 2022.12)
+- 차원축소 컨벌루젼 오토인코더 모델, 하이퍼 파라미터 튜닝을 통한 PSNR/SSIM 성능 최적화 및 오버피팅 방지 제안 (2022.01 ~ 2022.06)
+- 유기동물 보호소 생애 예측 모델, 모델러, 메타데이터 확장 및 F1 score 성능개선 (2021.09 ~ 2022.05)
+
+Skills
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" />
+
 
 <!--
 
-Career
-- Kakao Enterprise, AIaaS AI Service, Backend Intern(2022.08.30 ~ )
-- Hanyang University, Department of Computer Software (2017.03 ~ )
-- Cloud Club, 1st,2nd (2022.03 ~ )
-- AUSG, 6th (2022.07 ~ )
-- Google Develpoer Student Club Hanyang, 2nd Core Member (2022.08 ~ )
-- Depromeet, 11th (2022.03 ~ 2022.07)
-
-Projects
-- Project [Too-Good-To-Go], Backend (2021.09 ~ 2022.03)
-- Project [Daedongbread], Backend (2022.03 ~ )
-- Depromeet, Project [Moodpic], Backend (2022.03 ~ 2022.07)
-
-Skills
 
 
 
