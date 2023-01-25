@@ -6,10 +6,22 @@ Projects
 - 차원축소 컨벌루젼 오토인코더 모델, 하이퍼 파라미터 튜닝을 통한 PSNR/SSIM 성능 최적화 및 오버피팅 방지 제안 (2022.01 ~ 2022.06)
 - 유기동물 보호소 생애 예측 모델, 모델러, 메타데이터 확장 및 F1 score 성능개선 (2021.09 ~ 2022.05)
 
-Skills
+###  :muscle:Skills
+<p align ="center">
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
+
+### :seedling: Studying
+<p align ="center">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AWS&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
 
 
+  
+  
 <!--
 
 
