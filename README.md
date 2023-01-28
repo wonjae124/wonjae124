@@ -19,6 +19,7 @@ Projects
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AWS&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
 
+<p align ="center">
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=berlaemrtls)](https://solved.ac/berlaemrtls/)
 
   
