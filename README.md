@@ -1,5 +1,5 @@
 ### Hi I'm Wonjae Jeong 👋
-MlOps Developer / DevOps / Data Enginner 지망생
+MlOps / DevOps / AiOps 엔지니어 지망생
 
 Projects
 - 축구공 탐지 터틀봇, 젯슨나노 Yolov3 GPU추론 환경 구축(2022.09 ~ 2022.12)
@@ -45,8 +45,10 @@ Here are some ideas to get you started:
 -->
 
   
-  |제목|내용|설명|
-|------|---|---|
+  |날짜|제목|내용|
+|2023.01.19|AWS EC2 등록|---|
+|2023.01.24~01.25|[AWS] EC2 인스턴스에 putty를 이용해서 접속하기|https://www.notion.so/sodam/AWS-EC2-putty-5c6ab9a8b53d4f44b866ca644e7840e1|
 |테스트1|테스트2|테스트3|
 |테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
+
+  
