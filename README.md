@@ -45,10 +45,3 @@ Here are some ideas to get you started:
 -->
 
   
-  |날짜|제목|내용|
-|2023.01.19|AWS EC2 등록|---|
-|2023.01.24~01.25|[AWS] EC2 인스턴스에 putty를 이용해서 접속하기|https://www.notion.so/sodam/AWS-EC2-putty-5c6ab9a8b53d4f44b866ca644e7840e1|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
-
-  
