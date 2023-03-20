@@ -2,14 +2,16 @@
 MlOps / AiOps / DevOps 엔지니어 지망생
 
 Projects
-- [Description](https://www.notion.so/sodam/3d437a1fee654432b9bbc86f4b3b8891?pvs=4)
-- 유기동물 보호소 생애 예측 모델, 모델러, 데이터셋 융합, XGboost모델 F1 score 9.6% 성능개선 (2021.09 ~ 2022.05)
-  - [Code](https://github.com/wonjae124/Capston/blob/colab/220531_big_austin_animaldataset_classifier_dog_cat_capston_ipynb%EC%9D%98_%EC%82%AC%EB%B3%B8%EC%9D%98_%EC%82%AC%EB%B3%B8.ipynb)
-- 화질 복원 목적의 차원축소 컨벌루젼 오토인코더, 모델러, 하이퍼 파라미터 튜닝, 오버피팅 방지 제안 (2022.01 ~ 2022.06)
-  - [code](https://github.com/wonjae124/2021_Lab_project/blob/main/220524MSE_압축오토인코더.ipynb)   
-- 축구공 탐지 터틀봇, 젯슨나노 Yolov3 GPU추론 환경 구축(2022.09 ~ 2022.12)
+- [Notion - Description](https://www.notion.so/sodam/3d437a1fee654432b9bbc86f4b3b8891?pvs=4)
+  - 유기동물 보호소 생애 예측 모델, 모델러, 데이터셋 융합, XGboost모델 F1 score 9.6% 성능개선 (2021.09 ~ 2022.05)
+    - [Code](https://github.com/wonjae124/Capston/blob/colab/220531_big_austin_animaldataset_classifier_dog_cat_capston_ipynb%EC%9D%98_%EC%82%AC%EB%B3%B8%EC%9D%98_%EC%82%AC%EB%B3%B8.ipynb)
+  - 화질 복원 목적의 차원축소 컨벌루젼 오토인코더, 모델러, 하이퍼 파라미터 튜닝, 오버피팅 방지 제안 (2022.01 ~ 2022.06)
+    - [code](https://github.com/wonjae124/2021_Lab_project/blob/main/220524MSE_압축오토인코더.ipynb)   
+  - 축구공 탐지 터틀봇, 젯슨나노 Yolov3 GPU추론 환경 구축(2022.09 ~ 2022.12)
+
+
 - Kurbernetes, Devops, Aiops 개인 프로젝트 (2023.01~ 진행중)
-  - [repo](https://github.com/wonjae124/Devops/tree/main/Aiops)
+  - [Github - Repo](https://github.com/wonjae124/Devops/tree/main/Aiops)
 
 ###  :muscle:Skills
 <p align ="center">
