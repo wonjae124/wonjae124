@@ -1,5 +1,5 @@
 ### Hi I'm Wonjae Jeong 👋
-MlOps / AiOps / DevOps 엔지니어 지망생
+Backend developer 지망생
 
 Projects
 - [Code](https://github.com/wonjae124/Capston/blob/colab/220531_big_austin_animaldataset_classifier_dog_cat_capston_ipynb%EC%9D%98_%EC%82%AC%EB%B3%B8%EC%9D%98_%EC%82%AC%EB%B3%B8.ipynb) 유기동물 보호소 생애 예측 모델, 모델러, 데이터셋 융합, XGboost모델 F1 score 9.6% 성능개선 (2021.09 ~ 2022.05) 
