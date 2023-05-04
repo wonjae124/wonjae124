@@ -8,8 +8,6 @@ Projects
 - [위 세 가지의 결과물](https://www.notion.so/sodam/3d437a1fee654432b9bbc86f4b3b8891?pvs=4)
 <br/>
 
-- Kurbernetes, Devops, Aiops 개인 프로젝트 (2023.01~ 진행중)
-  - [github - Repo](https://github.com/wonjae124/Devops/tree/main/Aiops)
 
 ###  :muscle:Skills
 <p align ="center">
